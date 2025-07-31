@@ -1,0 +1,11 @@
+
+author:
+  - name: Mr. Grant
+
+date: 7/30/2025
+
+
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
